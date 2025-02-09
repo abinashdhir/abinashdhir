@@ -19,5 +19,5 @@ I'm a passionate **React Developer** with over 2.5 years of experience in design
 ## 📫 How to reach me
 
 - **LinkedIn**: https://www.linkedin.com/in/abinashdhir
-- **Email**: abinashdhir50@example.com
+- **Email**: abinashdhir50@gmail.com
 

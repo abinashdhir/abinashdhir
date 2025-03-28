@@ -1,4 +1,4 @@
-# Hi there, I'm Abinash Dhir! 👋
+# Hi there, I'm Abinash! 👋
 
 I'm a passionate **React Developer** with over 3+ years of experience in designing and developing responsive, cutting-edge web pages. My expertise lies in creating high-performance web and mobile applications that enhance marketplace dynamics.
 

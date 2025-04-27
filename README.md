@@ -1,24 +1,35 @@
-# Hi there, I'm Abinash! 👋
 
-I'm a passionate **React Developer** with AI having over 3.5 years of experience in designing and developing responsive, cutting-edge web pages. My expertise lies in creating high-performance web and mobile applications that enhance marketplace dynamics.
+---
 
-## 🚀 About Me
+# **Hi there, I'm Abinash!** 👋  
 
-- 🌐 I specialize in **JavaScript, Python, React JS, HTML, and CSS**.
-- 💼 I have a strong background in end-to-end development and operations of web platforms.
-- 🎨 I focus on delivering best-in-class web platforms with a keen eye for detail and user experience.
+I'm a passionate **React Developer** with AI, boasting over **3.5 years of experience** in crafting **responsive, cutting-edge web pages**. My expertise revolves around creating **high-performance web and mobile applications** that elevate marketplace dynamics.  
 
-## 🛠️ Skills
+---
 
-- **Languages**: JavaScript, HTML, CSS, Python
-- **Frameworks and libraries**: React JS, Redux, Bootstrap, Numpy, Pandas, Tailwind CSS, Motion, Aceternity UI, Material UI
-- **Tools**: Git, Bitbucket, Webpack, Babel, npm, pip, Figma, Zeplin
-- **AI upskilling**: Agentic UI, Data Analytics
-- **Other**: Responsive Design, OOPS, RESTful APIs, Agile Methodologies
+## **🚀 About Me**
 
+- 🌐 **Specialization**: Proficient in **JavaScript, Python, React JS, HTML, and CSS** for dynamic solutions.  
+- 💼 **Background**: A robust foundation in **end-to-end development** and platform operations.  
+- 🎨 **Focus**: Prioritize delivering **top-notch web platforms** with meticulous attention to **user experience**.  
 
-## 📫 How to reach me
+---
 
-- **LinkedIn**: https://www.linkedin.com/in/abinashdhir
-- **Email**: abinashdhir50@gmail.com
+## **🛠️ Skills**
 
+| **Category**         | **Skillset**                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Languages**         | JavaScript, HTML, CSS, Python                                              |
+| **Frameworks**        | React JS, Redux, Bootstrap, Tailwind CSS, Material UI, Motion, Numpy, Pandas |
+| **Tools**             | Git, Bitbucket, Webpack, Babel, npm, pip, Figma, Zeplin                   |
+| **AI Upskilling**     | Agentic UI, Data Analytics                                                |
+| **Other Expertise**   | Responsive Design, OOPS, RESTful APIs, Agile Methodologies               |
+
+---
+
+## **📫 How to Reach Me**  
+
+- 🌐 **LinkedIn**: [Abinash Dhir](https://www.linkedin.com/in/abinashdhir)  
+- 📧 **Email**: abinashdhir50@gmail.com  
+
+---

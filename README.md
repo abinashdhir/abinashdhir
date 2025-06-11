@@ -3,7 +3,7 @@
 
 # **Hi there, I'm Abinash!** 👋  
 
-I'm a passionate **React Developer** with AI, boasting over **3.5 years of experience** in crafting **responsive, cutting-edge web pages**. My expertise revolves around creating **high-performance web and mobile applications** that elevate marketplace dynamics.  
+I'm a passionate **React Developer** with AI, crafting **responsive, cutting-edge web pages**. My expertise revolves around creating **high-performance web and mobile applications** that elevate marketplace dynamics.  
 
 ---
 
